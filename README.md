@@ -16,7 +16,7 @@ This project demonstrates a **Pagination** component with a table of dummy data.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/patelms35/Chess-board.git
+   git clone https://github.com/patelms35/Pagination.git
    ```
 
 2. Navigate into the project directory:
