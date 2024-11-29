@@ -21,7 +21,7 @@ This project demonstrates a **Pagination** component with a table of dummy data.
 
 2. Navigate into the project directory:
    ```
-   cd Chess-board
+   cd Pagination
    ```
 
 3. Install the dependencies:
